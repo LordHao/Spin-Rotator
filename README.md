@@ -1,2 +1,0 @@
-# Rotator
-My MSc project
